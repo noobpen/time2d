@@ -2,7 +2,7 @@
   "name": "time2d",
   "version": "0.0.1",
   "description": "a simple game engine made for web browsers",
-  "main": "index.js",
+  "main": "testpkg.js",
   "scripts": {
     "test": "echo \"UNFISHIED\""
   },
