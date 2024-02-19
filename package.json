@@ -1,6 +1,6 @@
 {
   "name": "time2d",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple game engine made for web browsers",
   "main": "testpkg.js",
   "scripts": {
