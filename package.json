@@ -1,0 +1,19 @@
+{
+  "name": "time2d",
+  "version": "0.0.1",
+  "description": "a simple game engine made for web browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"UNFISHIED\""
+  },
+  "keywords": [
+    "2d",
+    "games",
+    "box2d",
+    "game-engine",
+    "html5",
+    "canvas"
+  ],
+  "author": "noobpen",
+  "license": "MIT"
+}
